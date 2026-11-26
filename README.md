@@ -1,4 +1,6 @@
-# mental-maths-trainer
+# NESTOR: Number Exercises: Speed, Timing, Operations, Recall
+
+Formerly `mental-maths-trainer`.
 
 Mental maths trainer with the tricks explained.
 
