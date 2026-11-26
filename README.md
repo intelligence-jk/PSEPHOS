@@ -1,4 +1,4 @@
-# NESTOR: Number Exercises: Speed, Timing, Operations, Recall
+# PSEPHOS: Greek for the pebble used for counting
 
 Formerly `mental-maths-trainer`.
 
